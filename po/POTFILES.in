@@ -1,0 +1,21 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+capplet/csm-app-dialog.c
+capplet/csm-properties-dialog.c
+capplet/csp-app.c
+capplet/main.c
+[type: gettext/glade]data/csm-inhibit-dialog.glade
+data/sagarmatha-session-properties.desktop.in.in
+[type: gettext/glade]data/sagarmatha-session-properties.glade
+egg/eggdesktopfile.c
+egg/eggsmclient.c
+sagarmatha-session/csm-inhibit-dialog.c
+sagarmatha-session/csm-logout-dialog.c
+sagarmatha-session/csm-fail-whale-dialog.c
+sagarmatha-session/csm-process-helper.c
+sagarmatha-session/csm-manager.c
+sagarmatha-session/csm-xsmp-client.c
+sagarmatha-session/csm-xsmp-server.c
+sagarmatha-session/csm-util.c
+sagarmatha-session/main.c
+tools/sagarmatha-session-quit.c

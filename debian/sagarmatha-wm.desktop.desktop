@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Window Manager
+Exec=sagarmatha-wm
+NoDisplay=true
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=true
+Name[en_US]=sagarmatha-wm.desktop

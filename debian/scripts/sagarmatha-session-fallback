@@ -1,0 +1,2 @@
+#! /bin/sh
+exec sagarmatha-session --session gnome-fallback "$@"
