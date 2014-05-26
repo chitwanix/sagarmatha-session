@@ -1,3 +1,5 @@
-sagarmatha-session (2.0.3) khukuri; urgency=low
-  * 2.0.3
- -- Arun Kumar Pyasi <root@chitwanix.com>  Tue, 29 Oct 2013 10:36:44 +0000
+sagarmatha-session (1.0.0) khukuri; urgency=low
+
+  * 1.0.0 Initial port from cinnamon-session-2.0.6
+
+ -- Arun Kr. Pyasi <root@chitwanix.com>  Fri, 22 Nov 2013 10:57:34 +0000

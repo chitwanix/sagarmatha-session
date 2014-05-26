@@ -243,9 +243,9 @@ case $os in
 	-psos*)
 		os=-psos
 		;;
-	-mint | -mint[0-9]*)
+	-chitwanix | -chitwanix[0-9]*)
 		basic_machine=m68k-atari
-		os=-mint
+		os=-chitwanix
 		;;
 esac
 
@@ -802,9 +802,9 @@ case $basic_machine in
 	miniframe)
 		basic_machine=m68000-convergent
 		;;
-	*mint | -mint[0-9]* | *MiNT | *MiNT[0-9]*)
+	*chitwanix | -chitwanix[0-9]* | *MiNT | *MiNT[0-9]*)
 		basic_machine=m68k-atari
-		os=-mint
+		os=-chitwanix
 		;;
 	mips3*-*)
 		basic_machine=`echo $basic_machine | sed -e 's/mips3/mips64/'`
@@ -1486,8 +1486,8 @@ case $os in
 	-xenix)
 		os=-xenix
 		;;
-	-*mint | -mint[0-9]* | -*MiNT | -MiNT[0-9]*)
-		os=-mint
+	-*chitwanix | -chitwanix[0-9]* | -*MiNT | -MiNT[0-9]*)
+		os=-chitwanix
 		;;
 	-aros*)
 		os=-aros
@@ -1689,7 +1689,7 @@ case $basic_machine in
 		os=-macos
 		;;
 	*-atari*)
-		os=-mint
+		os=-chitwanix
 		;;
 	*)
 		os=-none
@@ -1760,7 +1760,7 @@ case $basic_machine in
 			-mpw* | -macos*)
 				vendor=apple
 				;;
-			-*mint | -mint[0-9]* | -*MiNT | -MiNT[0-9]*)
+			-*chitwanix | -chitwanix[0-9]* | -*MiNT | -MiNT[0-9]*)
 				vendor=atari
 				;;
 			-vos*)

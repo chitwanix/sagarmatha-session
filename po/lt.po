@@ -101,11 +101,11 @@ msgstr "Papildomos paleidžiamos _programos:"
 
 #: ../data/sagarmatha-session-properties.glade.h:2
 msgid "_Automatically remember running applications when logging out"
-msgstr "_Atsijungiant, automatiškai atsiminti paleistas programas"
+msgstr "_Atsijungiant, automatiškai atsichitwanixi paleistas programas"
 
 #: ../data/sagarmatha-session-properties.glade.h:3
 msgid "_Remember Currently Running Applications"
-msgstr "_Atsiminti dabar veikiančias programas"
+msgstr "_Atsichitwanixi dabar veikiančias programas"
 
 #: ../data/sagarmatha-session-properties.glade.h:4
 msgid "Browse…"
@@ -377,7 +377,7 @@ msgstr "Neatsako"
 #.
 #: ../sagarmatha-session/csm-xsmp-client.c:559
 msgid "Remembered Application"
-msgstr "Atsiminti programą"
+msgstr "Atsichitwanixi programą"
 
 #: ../sagarmatha-session/csm-xsmp-client.c:1197
 msgid "This program is blocking logout."

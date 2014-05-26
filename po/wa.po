@@ -2,7 +2,7 @@
 #
 # Si vos voloz donner on côp di spale pol ratournaedje di Gnome (ou des
 # ôtes libes programes) sicrijhoz-mu a l' adresse emile
-# <srtxg@chanae.alphanet.ch>; nos avons co bråmint di l' ovraedje a fé.
+# <srtxg@chanae.alphanet.ch>; nos avons co bråchitwanix di l' ovraedje a fé.
 #
 # Copyright (C) 1999,2002 Free Software Foundation, Inc.
 # Pablo Saratxaga <srtxg@chanae.alphanet.ch> 1999-2002
@@ -485,7 +485,7 @@ msgstr ""
 #~ "If enabled, sagarmatha-session will save the session automatically. "
 #~ "Otherwise, the logout dialog will have an option to save the session."
 #~ msgstr ""
-#~ "Si metou, sagarmatha-session schaprè otomaticmint les sessions. Ôtrumint, "
+#~ "Si metou, sagarmatha-session schaprè otomaticchitwanix les sessions. Ôtruchitwanix, "
 #~ "li purnea di dmande di dislodjaedje a-st ene tchuze po schaper l' session."
 
 #~ msgid "Logout prompt"
@@ -501,7 +501,7 @@ msgstr ""
 #~ msgstr "Mostrer li purnea di bénvnowe"
 
 #~ msgid "Show the splash screen when the session starts up"
-#~ msgstr "Mostrer li purnea di bénvnowe å moumint di l' elodjaedje"
+#~ msgstr "Mostrer li purnea di bénvnowe å mouchitwanix di l' elodjaedje"
 
 #~ msgid ""
 #~ "This is a relative path value based off the $datadir/pixmaps/ directory. "
@@ -510,7 +510,7 @@ msgstr ""
 #~ msgstr ""
 #~ "Çouchal c' est ene valixhance k' est on tchmin relatif a pårti do ridant "
 #~ "$datadir/pixmaps/ Les dzo-ridants eyet les nos d' fitchîs sont des "
-#~ "valixhances valides. On candjmint del valixhance serè-st efectif a "
+#~ "valixhances valides. On candjchitwanix del valixhance serè-st efectif a "
 #~ "l' elodjaedje shuvant."
 
 #~ msgid "_Order:"
@@ -622,7 +622,7 @@ msgstr ""
 #~ msgstr "Estoz vs seur di vs voleur dislodjî?"
 
 #~ msgid "_Save current setup"
-#~ msgstr "_Schaper l' apontiaedje do moumint"
+#~ msgstr "_Schaper l' apontiaedje do mouchitwanix"
 
 #~ msgid "Action"
 #~ msgstr "Accion"
@@ -680,10 +680,10 @@ msgstr ""
 #~ "Renonder on programe k' a stî passé houte cåze des arokes tot l' enondant."
 
 #~ msgid "A session shutdown is in progress."
-#~ msgstr "Li session est ki s' clôt pol moumint"
+#~ msgstr "Li session est ki s' clôt pol mouchitwanix"
 
 #~ msgid "Set the current session"
-#~ msgstr "Definixh li session do moumint"
+#~ msgstr "Definixh li session do mouchitwanix"
 
 #~ msgid "Kill session"
 #~ msgstr "Touwer li session"
@@ -710,20 +710,20 @@ msgstr ""
 #~ "Some changes are not saved.\n"
 #~ "Is it still OK to exit?"
 #~ msgstr ""
-#~ "Sacwants candjmints n' ont nén stî schapés.\n"
+#~ "Sacwants candjchitwanixs n' ont nén stî schapés.\n"
 #~ "Estoz todi d' acoird di moussî foû?"
 
 #~ msgid "Sessions"
 #~ msgstr "Sessions"
 
 #~ msgid "Show splash screen on _login"
-#~ msgstr "Mostrer li purnea di bénvnowe å moumint di l' e_lodjaedje"
+#~ msgstr "Mostrer li purnea di bénvnowe å mouchitwanix di l' e_lodjaedje"
 
 #~ msgid "As_k on logout"
-#~ msgstr "Di_mander å moumint di s' dislodjî"
+#~ msgstr "Di_mander å mouchitwanix di s' dislodjî"
 
 #~ msgid "Automatically save chan_ges to session"
-#~ msgstr "Schaper otomaticmint les cand_jmints del session"
+#~ msgstr "Schaper otomaticchitwanix les cand_jchitwanixs del session"
 
 #~ msgid "_Sessions:"
 #~ msgstr "_Sessions:"
@@ -732,22 +732,22 @@ msgstr ""
 #~ msgstr "No del session"
 
 #~ msgid "Current Session"
-#~ msgstr "Session do moumint"
+#~ msgstr "Session do mouchitwanix"
 
 #~ msgid "Startup Programs"
 #~ msgstr "Programes a l' enondaedje"
 
 #~ msgid "Remove the currently selected client from the session."
-#~ msgstr "Oister del session li cliyint tchoezi pol moumint."
+#~ msgstr "Oister del session li cliyint tchoezi pol mouchitwanix."
 
 #~ msgid "Apply changes to the current session"
-#~ msgstr "Mete en ouve les candjmints pol session do moumint"
+#~ msgstr "Mete en ouve les candjchitwanixs pol session do mouchitwanix"
 
 #~ msgid "The list of programs in the session."
 #~ msgstr "Li djivêye des programes del session."
 
 #~ msgid "Currently running _programs:"
-#~ msgstr "_Programes en alaedje pol moumint:"
+#~ msgstr "_Programes en alaedje pol mouchitwanix:"
 
 #~ msgid "Initialize session settings"
 #~ msgstr "Dj' enonde l' apontiaedje del session"

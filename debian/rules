@@ -15,5 +15,3 @@ DEB_CONFIGURE_EXTRA_FLAGS += --localstatedir=/var/lib \
 
 LDFLAGS += -Wl,-z,defs -Wl,-O1 -Wl,--as-needed
 
-install/sagarmatha-session::
-	install -m 644 -D debian/sagarmatha-session.user-session.upstart debian/sagarmatha-session/usr/share/upstart/sessions/sagarmatha-session.conf

@@ -1,5 +1,5 @@
 AC_INIT([sagarmatha-session],
-        [2.0.3],
+        [2.0.6],
         [https://github.com/chitwanix/sagarmatha-session/issues])
 
 AC_CONFIG_SRCDIR([sagarmatha-session])

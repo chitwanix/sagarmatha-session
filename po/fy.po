@@ -70,7 +70,7 @@ msgstr "Ferzje fan dizze tapassing"
 
 #: ../capplet/main.c:61
 msgid "Could not display help document"
-msgstr "Koe it help dokumint net werjaan"
+msgstr "Koe it help dokuchitwanix net werjaan"
 
 #: ../data/sagarmatha-fallback-session.desktop.in.in.h:1
 msgid "Sagarmatha fallback"
@@ -158,7 +158,7 @@ msgstr "Dwaande mei it starte fan %s"
 #: ../egg/eggdesktopfile.c:1100
 #, c-format
 msgid "Application does not accept documents on command line"
-msgstr "Tapassing akseptearret gjin dokuminten op de kommandorigel"
+msgstr "Tapassing akseptearret gjin dokuchitwanixen op de kommandorigel"
 
 #: ../egg/eggdesktopfile.c:1168
 #, c-format
@@ -168,7 +168,7 @@ msgstr "Ûnbekende startopsje: %d"
 #: ../egg/eggdesktopfile.c:1373
 #, c-format
 msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
-msgstr "Kin gjin dokumint URIs oan in .desktop-triem mei 'Type=Link' trochjaan"
+msgstr "Kin gjin dokuchitwanix URIs oan in .desktop-triem mei 'Type=Link' trochjaan"
 
 #: ../egg/eggdesktopfile.c:1394
 #, c-format
@@ -489,7 +489,7 @@ msgstr "Programma oanroppen mei stridige opsjes"
 #~ "session at login time if they do get removed."
 #~ msgstr ""
 #~ "Lyst fan komponinten dy't nedich binne as in part fan de sesje. (Elts "
-#~ "elemint neamt in kaai ûnder \"/desktop/sagarmatha/session/required_components"
+#~ "elechitwanix neamt in kaai ûnder \"/desktop/sagarmatha/session/required_components"
 #~ "\"). It Start Applikaasje ynstellings ark lit brûkers gjin easke "
 #~ "komponinten út de sesje fuortsmite, en de sesje behearder sil automatysk "
 #~ "de easke komponinten by it oanmelden wer tafoegje oan de sesje wannear't "
