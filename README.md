@@ -1,4 +1,6 @@
-sagarmatha-session
-==================
+TODO
+____
 
-The Desktop Session for Sagarmatha.
+- Check for regression on power-down sequence (no dialog when laptop power button pressed)
+
+

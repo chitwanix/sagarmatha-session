@@ -10,7 +10,7 @@ sagarmatha_session_quit_SOURCES =			\
 
 sagarmatha_session_quit_CPPFLAGS =			\
 	$(AM_CPPFLAGS)				\
-	$(CINNAMON_SESSION_CFLAGS)			\
+	$(SAGARMATHA_SESSION_CFLAGS)			\
 	$(DBUS_GLIB_CFLAGS)			\
 	$(GCONF_FLAGS)				\
 	-DLOCALE_DIR=\""$(datadir)/locale"\"	\
@@ -19,7 +19,7 @@ sagarmatha_session_quit_CPPFLAGS =			\
 sagarmatha_session_quit_LDADD =			\
 	$(SM_LIBS)				\
 	$(ICE_LIBS)				\
-	$(CINNAMON_SESSION_LIBS)			\
+	$(SAGARMATHA_SESSION_LIBS)			\
 	$(DBUS_GLIB_LIBS)			\
 	$(GCONF_LIBS)
 
